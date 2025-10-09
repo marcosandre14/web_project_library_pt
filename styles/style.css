@@ -280,6 +280,7 @@
 .person_name_mitchell {
   bottom: 142px;
   left: 82px;
+  position: absolute;
 }
 
 .person_name_tarter {
